@@ -7,7 +7,7 @@ import FindUs from '@/components/home/FindUs';
 import RecentMessages from '@/components/home/RecentMessages';
 
 export const metadata: Metadata = {
-  title: 'Home',
+  title: { absolute: "Tolosa Potter's House" },
   description: "The Potter's House Christian Church in Tolosa, Leyte. Discover service times, events, and latest messages.",
   alternates: { canonical: '/' },
   openGraph: {

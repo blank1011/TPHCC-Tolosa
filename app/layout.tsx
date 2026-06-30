@@ -17,6 +17,11 @@ export const metadata: Metadata = {
     default: "The Potter's House Christian Church",
     template: "%s | The Potter's House Christian Church",
   },
+  icons: {
+    icon: '/images/logo.png',
+    shortcut: '/images/logo.png',
+    apple: '/images/logo.png',
+  },
   description: 'Official website of The Potter\'s House Christian Church in Tolosa, Leyte. Watch sermons, see events, and find church locations.',
   keywords: ['The Potter\'s House', 'Tolosa Leyte Church', 'Christian Church Leyte', 'Church Events', 'Sermons', 'Live Church'],
   alternates: {
